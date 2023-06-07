@@ -1,0 +1,24 @@
+@media (max-width: 1024px) {
+    .mowtainer {
+        width: 90%;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .space {
+        flex-wrap: wrap;
+    }
+
+    .mowtainer {
+        width: 90%;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .mowgrid {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+
+}

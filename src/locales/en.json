@@ -1,0 +1,22 @@
+{
+    "header": {
+        "home": "Home",
+        "solution": "Solution",
+        "partnership": "Partnership",
+        "portfolio": "Portfolio",
+        "ourteam": "Our Team",
+        "news": "News",
+        "mediakit": "Media Kit"
+    },
+    "news": "News",
+    "search": "Search",
+    "readmore": "Read More",
+    "contact": {
+        "title": "Contact",
+        "text": "Sign up receive message",
+        "signup": "Sign Up"
+    },
+    "LastestPosts": "Lastest Posts",
+    "RelatedPosts": "Related Posts",
+    "notresult": "No result was found"
+}
